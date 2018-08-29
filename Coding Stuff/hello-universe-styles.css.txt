@@ -1,0 +1,37 @@
+
+body{
+	background-color: black;
+	color: white;
+	font-family: sans-serif;
+	}
+
+div.title{
+	color: #0f9;
+	border: 5px solid #0f9;
+	}
+
+div.sub{
+	border: 3px solid #91f;
+	border-radius: 8px;
+	}
+
+h2{
+	color: aqua;
+	}
+	
+div.enjoy{
+	color: #0f9;
+	font-size: 
+	}
+
+div.images{
+	border: 2px solid navy;
+	width: 400px
+	height: 400px
+	font-size: 14
+	}
+
+div.creds{
+	border: 2px solid white;
+	color: cadetblue;
+	}

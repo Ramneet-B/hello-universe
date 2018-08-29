@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="hello-universe-styles" href="hello-universe-styles.css">
+</head>
+
+<body>
+
+<div class="title">
+  <h1><strong>HELLO UNIVERSE</strong></h1>
+</div>
+
+<div class="sub">
+  <h2>
+       <center>
+         <strong>WELCOME</strong>
+       </center>
+  </h2>
+
+  <p><center>This website contains a collection of images</center></p>
+  <p><center>that may or may not exist in our universe</center></p>
+
+</div>
+
+<br>
+
+<div class="enjoy">
+   <h2><em>ENJOY:)</em></h2>
+</div>
+
+<br>
+
+<div class="images">
+   
+     <tbody>
+    	<tr>
+	   <td><img src="pineapple.jpeg" alt="pineapple"></td>
+	   <td><img src="axolotl.jpeg" alt="axolotl"></td>
+	   <td><img src="plastic.jpeg" alt="plastic"></td>
+	</tr>
+	<tr> 
+	    <ul>
+		<td><li><em>Fancy Pineapple</em></li></td>
+		<td><li><em>Axolotl</em></li></td>
+		<td><li><em>Plastic</em></li></td>
+            </ul>
+	</tr> 
+        <tr>
+	   <td><img src="panetone420.jpeg" alt="panetone420"></td>
+	   <td><img src="watch.jpeg" alt="watch"></td>
+	   <td><img src="iceland-black-sand.jpeg" alt="iceland sand"></td>
+	</tr>
+	<tr> 
+	    <ul>
+		<td><li><em>Panetone 420</em></li></td>
+		<td><li><em>Inside a watch</em></li></td>
+		<td><li><em>Black Sands at Reynisfjalla (Iceland)</em></li></td>
+            </ul>
+	</tr> 
+	<tr>
+	   <td><img src="pluto.png" alt="pluto"></td>
+	   <td><img src="paddington-bear.jpeg" alt="pb"></td>
+	   <td><img src="goomba-roomba.jpeg" alt="goomba roomba"></td>
+	</tr>
+	<tr> 
+	    <ul>
+		<td><li><em>Pluto</em></li></td>
+		<td><li><em>Paddington Bear</em></li></td>
+		<td><li><em>A Goomba on a Roomba</em></li></td>
+            </ul>
+	</tr> 
+
+      </tbody>
+
+</div>
+
+<div class="creds">
+<h4><center><strong>Credits:</strong> Pinterest.com,Thewatchquote.com,Theplanetarysociety</center></h4>
+<h4><center>Paddington.com,National Geographic, Theworldisabook.com, Imgur.com</center></h4>
+</div>
+
+</body>
+
+</html>
